@@ -19,7 +19,7 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      - name: Draft Python release
+      - name: Draft Python Release
         uses: release-drafter/release-drafter@v6
         with:
           config-name: release-template.yml
