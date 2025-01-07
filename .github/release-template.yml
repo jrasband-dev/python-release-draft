@@ -11,7 +11,6 @@ version-resolver:
   major:
     labels:
       - breaking
-      - breaking python
   minor:
     labels:
       - performance
@@ -24,7 +23,6 @@ categories:
   - title: 💥 Breaking changes
     labels:
       - breaking
-      - breaking python
   - title: ⚠️ Deprecations
     labels: deprecation
   - title: 🚀 Performance improvements
