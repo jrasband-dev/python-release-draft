@@ -2,8 +2,6 @@ exclude-labels:
   - skip changelog
   - release
 
-
-
 change-template: '- $TITLE (#$NUMBER)'
 change-title-escapes: '\<*_&'
 
