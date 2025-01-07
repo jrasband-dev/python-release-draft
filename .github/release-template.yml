@@ -1,14 +1,5 @@
 _extends: python-release-draft:.github/release-drafter.yml
 
-template:
-  name: Release ${{ github.ref }}
-  body: |
-    ## Changes
-    - List your changes here
-
-    ## Contributors
-    - List contributors here
-
 
 
 name-template: v$RESOLVED_VERSION
