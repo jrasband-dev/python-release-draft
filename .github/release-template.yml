@@ -1,4 +1,4 @@
-_extends: .github/release-drafter.yml
+_extends: python-release-draft:.github/release-drafter.yml
 
 name-template: v$RESOLVED_VERSION
 tag-template: v$RESOLVED_VERSION
